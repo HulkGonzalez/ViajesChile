@@ -44,7 +44,7 @@ h2 {
 }
 
 .receta-texto {
-    padding: 50px;
+    
 }
 
 .parrafoSomos {
@@ -54,11 +54,13 @@ h2 {
 .quienesSomos {
     color: white;
     font-family: 'Josefin Sans', sans-serif;
+    padding: 50px 0px 0px 0px;
 }
 
 .iconoS3 {
     text-align: center;
     background-color: #11bad4;
+
 }
 
 .card-gener {
@@ -76,8 +78,13 @@ h2 {
 
 .card-img-top {
     height: 250px;
-    width: 431px;
+    width: 100%;
     padding: 0px 0px 0px 0px;
+}
+
+.formulario {
+    padding: 30px 0px 0px 0px;
+
 }
 
 .fondo2 {
