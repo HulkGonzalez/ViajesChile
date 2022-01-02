@@ -1,19 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Fredoka One', cursive;
-    
     font-family: 'Pacifico', cursive;
     font-family: 'Josefin Sans', sans-serif;
+    background-color: black;
+}
 
-
-
-
+html {
+    scroll-behavior: smooth;
 }
 
 .viajes {
     height: 5vh;
+}
 
+.texto01 {
+    font-family: 'Pacifico', cursive;
+}
 
+.navbar {
+   
+}
+
+.carouselSlide {
+    
 }
 
 
+hr {
+  
+}
 
+h2 {
+    font-family: 'Fredoka One', cursive;
+    color: white;
+    text-align: center;
+}
+
+.receta-texto {
+    padding: 50px;
+}
+
+.parrafoSomos {
+    padding: 20px 50px 50px 50px;
+}
+
+.quienesSomos {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.iconoS3 {
+    text-align: center;
+    background-color: #11bad4;
+}
+
+.card-gener {
+    padding: 30px 50px 30px 50px;
+
+}
+
+.card-body {
+    padding: 50px;
+    background-color: #11bad4;
+    text-align: center;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.card-img-top {
+    height: 250px;
+    width: 431px;
+    padding: 0px 0px 0px 0px;
+}
+
+.fondo2 {
+    background-color: #11bad4;
+    text-align: center;
+    color: white;
+    font-family: 'Pacifico', cursive;
+    padding: 0px 0px 40px 0px;
+}
