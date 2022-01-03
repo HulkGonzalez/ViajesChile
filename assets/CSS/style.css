@@ -1,3 +1,4 @@
+/*Base*/
 *{
     margin: 0;
     padding: 0;
@@ -15,7 +16,7 @@ body {
 html {
     scroll-behavior: smooth;
 }
-
+/*NAvbar*/
 .viajes {
     height: 5vh;
 }
@@ -36,7 +37,7 @@ html {
 hr {
   
 }
-
+/*Seccion Quienes Somos*/
 h2 {
     font-family: 'Fredoka One', cursive;
     color: white;
@@ -62,7 +63,7 @@ h2 {
     background-color: #11bad4;
 
 }
-
+/*Seccion Destacados*/
 .card-gener {
     padding: 30px 50px 30px 50px;
 
@@ -87,12 +88,12 @@ h2 {
     color: white;
     font-family: 'Josefin Sans', sans-serif;
 }
-
+/*Formulario*/
 .formulario {
     padding: 30px 0px 0px 0px;
 
 }
-
+/*Footer*/
 .fondo2 {
     background-color: #11bad4;
     text-align: center;
