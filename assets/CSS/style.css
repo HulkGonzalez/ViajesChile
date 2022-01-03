@@ -82,6 +82,12 @@ h2 {
     padding: 0px 0px 0px 0px;
 }
 
+.click {
+    text-align: center;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
 .formulario {
     padding: 30px 0px 0px 0px;
 
